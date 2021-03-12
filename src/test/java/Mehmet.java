@@ -7,6 +7,6 @@ public class Mehmet {
 
     }
     public void whatsUp(){
-        System.out.println("ziss is meemmeer");
+        System.out.println("ziss is meemmeeer");
     }
 }
